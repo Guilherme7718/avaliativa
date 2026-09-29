@@ -1,0 +1,13 @@
+# Credenciais e variáveis de ambiente
+.env
+*.json
+!package.json
+
+# Ambiente virtual
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/secrets.toml
