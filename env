@@ -1,4 +1,0 @@
-# Copie o nome do .json para ".env" 
-# O arquivo .env NUNCA deve ser commitado no Git (já está no .gitignore).
-
-FIREBASE_CREDENTIALS_PATH=kelly-projeto-5bd2b-firebase-adminsdk-fbsvc-d7ada68bd1.json
